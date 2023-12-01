@@ -22,7 +22,13 @@ MonoBehaviour:
     colorVariables: []
     rectVariables: []
     quaternionVariables: []
-    gameObjectVariables: []
+    gameObjectVariables:
+    - useVariable: 1
+      name: mainCamera
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
     objectVariables: []
     materialVariables: []
     textureVariables: []
@@ -30,7 +36,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 
+    variableCategoryIDs: 00000000
   events:
   - "\u6E38\u620F/\u4E3B\u89D2/\u649E\u5230\u5899"
   - "\u6E38\u620F/\u4E3B\u89D2/\u79BB\u5F00\u5899"
