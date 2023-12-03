@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   variables:
     floatVariables: []
-    intVariables: []
+    intVariables:
+    - useVariable: 1
+      name: "\u6570\u636E/\u4E3B\u89D2/\u751F\u547D\u503C"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     boolVariables: []
     stringVariables: []
     vector2Variables: []
@@ -42,7 +48,10 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000
+    variableCategoryIDs: 000000000000000000000000
   events:
   - "\u6E38\u620F/\u4E3B\u89D2/\u649E\u5230\u5899"
   - "\u6E38\u620F/\u4E3B\u89D2/\u79BB\u5F00\u5899"
+  - "\u6E38\u620F/\u4E3B\u89D2/\u53D7\u4F24"
+  - "\u6570\u636E/\u4E3B\u89D2/\u53D7\u4F24\u64CD\u4F5C"
+  - "\u6570\u636E/\u4E3B\u89D2/\u6B7B\u4EA1\u4E8B\u4EF6"
