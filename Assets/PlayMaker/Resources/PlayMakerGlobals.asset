@@ -27,7 +27,13 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 0
-    boolVariables: []
+    boolVariables:
+    - useVariable: 1
+      name: isPlayerJump
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     stringVariables:
     - useVariable: 1
       name: "\u6570\u636E/\u5F53\u524D\u5173\u5361"
@@ -60,7 +66,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000000000000000000000000000
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000
   events:
   - "\u6E38\u620F/\u4E3B\u89D2/\u649E\u5230\u5899"
   - "\u6E38\u620F/\u4E3B\u89D2/\u79BB\u5F00\u5899"
