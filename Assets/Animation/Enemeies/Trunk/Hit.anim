@@ -83,8 +83,8 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 0.25
-    functionName: 
-    data: 
+    functionName: SendEvent
+    data: "\u52A8\u753B\u64AD\u653E\u5B8C\u6210"
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
