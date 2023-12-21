@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Gorund
   - Enemy
+  - Ladder
   layers:
   - Default
   - TransparentFX

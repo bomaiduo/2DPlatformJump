@@ -309,7 +309,7 @@ MonoBehaviour:
   fsm:
     dataVersion: 2
     usedInTemplate: {fileID: 0}
-    name: "\u72B6\u6001\u673A"
+    name: AttackCheck
     startState: State 1
     states:
     - name: State 1
